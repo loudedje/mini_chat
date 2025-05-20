@@ -17,26 +17,23 @@ O sistema visa promover inclusão, integração e suporte em língua simples par
 
 ## Tecnologias Utilizadas
 
-- Frontend: [especifique o framework, ex: React, Vue, Flutter, etc.]  
-- Backend: [ex: Node.js, Python Flask, etc.]  
-- Banco de Dados: [ex: MongoDB, PostgreSQL, etc.]  
-- Outras ferramentas: [ex: WebSocket para comunicação em tempo real]
+- Frontend: React,JS, Html, Css  
+- Backend: Java 
+- Banco de Dados: MongoDB  
 
 ## Como Usar
 
 1. Clone este repositório  
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://https://github.com/loudedje/mini_chat
 ````
 
 2. Instale as dependências
 
 ```bash
-cd nome-do-projeto
+cd mini_chat
 npm install
 ```
-
-(ou conforme o gerenciador que você usar)
 
 3. Configure variáveis de ambiente, se necessário (exemplo: arquivos `.env`)
 
@@ -52,12 +49,6 @@ npm start
 
 Contribuições são bem-vindas! Para contribuir:
 
-1. Fork este repositório
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Envie para a branch principal (`git push origin feature/nova-funcionalidade`)
-5. Abra um Pull Request para revisão
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
@@ -66,7 +57,5 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 Para dúvidas ou suporte, entre em contato:
 
-* E-mail: [seu-email@example.com](mailto:seu-email@example.com)
-* LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
 ---
